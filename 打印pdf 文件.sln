@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "打印pdf 文件", "打印pdf 文件\打印pdf 文件.csproj", "{3EA8E742-0E8B-4232-B9C2-500D5AF4682E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EA8E742-0E8B-4232-B9C2-500D5AF4682E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA8E742-0E8B-4232-B9C2-500D5AF4682E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA8E742-0E8B-4232-B9C2-500D5AF4682E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA8E742-0E8B-4232-B9C2-500D5AF4682E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9BBA3B1-7A87-443D-8648-82A619378A01}
+	EndGlobalSection
+EndGlobal
